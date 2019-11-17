@@ -1,0 +1,14 @@
+body {
+    background-image: url(https://image.freepik.com/vrije-vector/speel-retro-game-letters-met-pacman-teken-op-bakstenen-achtergrond-neon-banner_1262-11891.jpg);
+}
+header{
+    color: salmon;
+    font-size: 155%;
+}
+#canvas-warning {
+    color: #FF0;
+    font-size: 1.5em;
+}
+#atlas{
+    display:none
+}
